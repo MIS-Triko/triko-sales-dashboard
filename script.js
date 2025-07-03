@@ -2,7 +2,7 @@
 class SalesDashboard {
     constructor() {
         this.salesData = [];
-        this.apiBaseUrl = 'https://script.google.com/macros/s/AKfycby4CAjgR_aTlBpiYe6sdDzqVWsd9pR9qEfAYXzO7tBButJKoweuqNmy2v8rjPe3Jf1hVg/exec'; // Change this to your backend URL
+        this.apiBaseUrl = 'https://script.google.com/macros/s/AKfycbxiyWluKmhoA03jJ3p8Y6-6JzAp_76sun_8MQgx0uAWbam0Ehpr6iA9Lzlnu8BCd17IdQ/exec'; // Change this to your backend URL
         this.init();
     }
 
